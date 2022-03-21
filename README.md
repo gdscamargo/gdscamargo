@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 23yo computer engineering student at UFPel
+- 24yo
 
 - currently back-end dev intern at [TownSQ](https://townsq.com.br/)
 - e-mail: gdscamargo@inf.ufpel.edu.br
